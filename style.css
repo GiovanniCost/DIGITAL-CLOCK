@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+}
+
+
+body{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background:linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 47%, rgba(0, 212, 255, 1) 80%)
+}
+.clock-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    gap: 10px;
+}
+
+.city-select{
+    display:flex;
+}
+
+h1{
+    font-size: 3rem;
+    color:rgb(236, 192, 236);
+}
+
+.clock{
+    font-size: 2rem;
+    color: rgb(223, 215, 227);
+}
+
+#date{
+    font-size: 2rem;
+    color: rgb(212, 189, 224);
+}
+
+h3{
+    font-size: 1.2rem;
+    color:rgb(236, 192, 236);
+}
+#city-selection{
+    padding: 5px;
+}
+
+
