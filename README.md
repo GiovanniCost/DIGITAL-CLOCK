@@ -12,7 +12,6 @@
 <h2>Funcionalidades:</h2>
 <ul>
   <li>Exibição da hora local atualizada segundo a segundo.</li>
-  <li>Seleção de diferentes cidades/fusos horários (ex: Londres, Nova York, Tóquio).</li>
-  <li></li>
+  <li>Seleção de diferentes cidades/fusos horários (ex: Londres, Nova York, Tóquio).
 </ul>
-<img src:>
+<img alt="200" src="https://raw.githubusercontent.com/GiovanniCost/DIGITAL-CLOCK/refs/heads/master/clock.png">
